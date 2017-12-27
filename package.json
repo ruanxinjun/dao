@@ -1,0 +1,25 @@
+{
+  "name": "dao",
+  "version": "1.0.0",
+  "description": "各个类型的数据库DAO层面",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanxinjun/dao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanxinjun/dao/issues"
+  },
+  "homepage": "https://github.com/ruanxinjun/dao#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "swig": "^1.4.2"
+  }
+}
